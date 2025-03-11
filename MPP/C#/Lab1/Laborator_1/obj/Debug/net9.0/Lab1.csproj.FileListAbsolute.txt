@@ -1,0 +1,15 @@
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/bin/Debug/net9.0/Lab1
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/bin/Debug/net9.0/Lab1.deps.json
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/bin/Debug/net9.0/Lab1.runtimeconfig.json
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/bin/Debug/net9.0/Lab1.dll
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/bin/Debug/net9.0/Lab1.pdb
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/Lab1.AssemblyInfoInputs.cache
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/Lab1.AssemblyInfo.cs
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/Lab1.csproj.CoreCompileInputs.cache
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/Lab1.sourcelink.json
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/Lab1.dll
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/refint/Lab1.dll
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/Lab1.pdb
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/Lab1.genruntimeconfig.cache
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Lab1/obj/Debug/net9.0/ref/Lab1.dll

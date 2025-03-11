@@ -1,0 +1,15 @@
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/bin/Debug/net9.0/Laborator_1
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/bin/Debug/net9.0/Laborator_1.deps.json
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/bin/Debug/net9.0/Laborator_1.runtimeconfig.json
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/bin/Debug/net9.0/Laborator_1.dll
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/bin/Debug/net9.0/Laborator_1.pdb
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/Laborator_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/Laborator_1.AssemblyInfoInputs.cache
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/Laborator_1.AssemblyInfo.cs
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/Laborator_1.csproj.CoreCompileInputs.cache
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/Laborator_1.sourcelink.json
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/Laborator_1.dll
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/refint/Laborator_1.dll
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/Laborator_1.pdb
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/Laborator_1.genruntimeconfig.cache
+/Users/mihaiadomnitei/Desktop/MPP/C#/Lab1/Laborator_1/obj/Debug/net9.0/ref/Laborator_1.dll
